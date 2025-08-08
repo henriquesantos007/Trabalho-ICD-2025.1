@@ -7,6 +7,8 @@ Grupo:
 - Josinaldo da Silva Sousa
 - Luiz Henrique Santos da Graça
 
+## Link do drive para os DATASETS do mueus_testes_02.ipynb
+https://drive.google.com/drive/folders/1-af0InXMg7oShrI9cGWj9FAFp-u63nCj?usp=drive_link
 
 # Abordagem de Cleta de Dados
 
